@@ -4,7 +4,7 @@
           // 展示提示内容
           var showTips = function () {
                   var html='<div class="compat1913" style="background: #f9f3cf;height: 30px;line-height: 30px;border: 1px solid #f7eaac;text-align: center;">' +
-                      '<span style="color: #8c6327;font-size: 12px;">您使用的浏览器版本过低，为了更好的使用体验，请升级浏览器至IE9及以上，推荐使用chrome浏览器。</span>'+
+                      '<span style="color: #8c6327;font-size: 12px;">万方知识服务平台将于1月27日上午6点至9点进行网站升级维护，为您带来不便，敬请谅解！</span>'+
                       '<span class="compat1913-close" ' +
                       'style="display: inline-block;cursor: pointer; color: #8e6529;background-color: #f7eaac;font-size: 10px; height: 15px;width: 15px;line-height: 15px;border-radius: 10px;margin-left: 15px;"' +
                       'onclick="javascript:$(this).parents(\'.compat1913\').remove();">X</span>' +
